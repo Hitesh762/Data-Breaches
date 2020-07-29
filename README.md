@@ -1,2 +1,2 @@
 # Data-Breaches
-Completed the case study on cyber security data breaches under We Are Plymouths community.
+The case study on cyber security data breaches under the We Are Plymouths community.
